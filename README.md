@@ -10,7 +10,7 @@ The password manager is a command-line application allowing users to securely st
 
 There are two purposes for this project. Firstly, it served as a practical exercise to apply and solidify my understanding of Rust, a language known for its emphasis on memory safety without sacrificing performance. Secondly, it allowed me to delve into the domain of security-focused application development, understanding how Rust's features can be leveraged to create robust and secure software.
 
-# [Software Demo Video](http://youtube.link.goes.here)
+# [Software Demo Video](https://youtu.be/9EAwAH4rBw0)
 
 
 

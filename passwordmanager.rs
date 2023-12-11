@@ -3,6 +3,8 @@ use std::fs::{File, OpenOptions};
 use std::io::{self, BufRead, BufReader, Write};
 use std::path::Path;
 
+
+        // Password Manager struct to manage passwords
 fn main() {
     let mut password_manager = PasswordManager::new("passwords.txt");
 
@@ -36,6 +38,8 @@ fn main() {
         }
     }
 }
+
+    // Add a password to the manager
 
 struct PasswordManager {
     passwords: HashMap<String, String>,
